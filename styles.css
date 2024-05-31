@@ -1,0 +1,31 @@
+body {
+    background-color: hsl(212, 45%, 89%);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+}
+
+body b {
+    font-size: 28px;
+}
+
+.container {
+    padding: 2rem 0;
+    min-width: 23rem;
+    max-width: 23rem;
+    border-radius: 1em;
+    text-align: center;
+    background-color: hsl(0, 0%, 100%);
+}
+
+img {
+    border-radius: 1em;
+    width: 20rem;
+}
+
+.text {
+    padding: 0 8%;
+}
